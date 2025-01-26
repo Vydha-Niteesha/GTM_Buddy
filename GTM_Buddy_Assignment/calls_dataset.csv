@@ -1,0 +1,121 @@
+id,cleaned_text,labels
+1,CompetitorY is offering a similar solution at a lower cost.,"Competition, Pricing Discussion"
+2,"Your AI engine looks impressive, but the pricing model is unclear.","Competition, Pricing Discussion"
+3,Our compliance team is worried about data handling. Are you SOC2 certified?,"Positive, Pricing Discussion, Features"
+4,I want to evaluate your AI engine's capabilities.,"Features, Technical Evaluation"
+5,CompetitorZ seems to have more flexible pricing.,"Competition, Pricing Discussion"
+6,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+7,CompetitorZ seems to have more flexible pricing.,"Competition, Pricing Discussion"
+8,Can you explain your renewal cost structure?,"Budget, Pricing Discussion"
+9,Looking for a cost-effective analytics solution.,"Security, Compliance"
+10,CompetitorZ seems to have more flexible pricing.,"Competition, Pricing Discussion"
+11,Looking for a cost-effective analytics solution.,"Budget, Pricing Discussion"
+12,"We love the analytics, but CompetitorX has a cheaper subscription.","Competition, Pricing Discussion"
+13,CompetitorZ seems to have more flexible pricing.,Technical Capabilities
+14,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+15,Looking for a cost-effective analytics solution.,"Budget, Pricing Discussion"
+16,I want to evaluate your AI engine's capabilities.,"Budget, Pricing Discussion"
+17,Interested in understanding your budget-friendly options.,Technical Capabilities
+18,How does your data pipeline compare with industry standards?,"Pricing Discussion, Budget"
+19,Interested in understanding your budget-friendly options.,"Features, Pricing Discussion"
+20,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Compliance"
+21,Can you explain your renewal cost structure?,Technical Capabilities
+22,I am concerned about data security and GDPR compliance.,Pricing Discussion
+23,How does your data pipeline compare with industry standards?,"Budget, Pricing Discussion"
+24,Do you offer any discounts for enterprise customers?,"Features, Technical Evaluation"
+25,We need advanced analytics for our sales team.,Pricing Discussion
+26,Looking for a cost-effective analytics solution.,"Features, Pricing Discussion"
+27,How does your data pipeline compare with industry standards?,Technical Capabilities
+28,CompetitorZ seems to have more flexible pricing.,"Budget, Pricing Discussion"
+29,How does your data pipeline compare with industry standards?,Technical Capabilities
+30,Our compliance team is worried about data handling. Are you SOC2 certified?,"Security, Compliance"
+31,Our compliance team is worried about data handling. Are you SOC2 certified?,Pricing Discussion
+32,Our compliance team is worried about data handling. Are you SOC2 certified?,"Features, Positive"
+33,"Your AI engine looks impressive, but the pricing model is unclear.","Competition, Pricing Discussion"
+34,CompetitorZ seems to have more flexible pricing.,"Budget, Pricing Discussion"
+35,We need advanced analytics for our sales team.,"Positive, Pricing Discussion, Features"
+36,Looking for a cost-effective analytics solution.,Technical Capabilities
+37,How does your data pipeline compare with industry standards?,"Budget, Pricing Discussion"
+38,Can you explain your renewal cost structure?,"Features, Positive"
+39,Do you offer any discounts for enterprise customers?,"Budget, Pricing Discussion"
+40,CompetitorZ seems to have more flexible pricing.,"Security, Compliance"
+41,How does your data pipeline compare with industry standards?,Technical Capabilities
+42,"We love the analytics, but CompetitorX has a cheaper subscription.","Features, Pricing Discussion"
+43,What makes your data pipeline unique?,Technical Capabilities
+44,Our compliance team is worried about data handling. Are you SOC2 certified?,Technical Capabilities
+45,Our compliance team is worried about data handling. Are you SOC2 certified?,"Features, Positive"
+46,Our compliance team is worried about data handling. Are you SOC2 certified?,"Features, Technical Evaluation"
+47,Do you offer any discounts for enterprise customers?,"Competition, Pricing Discussion"
+48,Looking for a cost-effective analytics solution.,"Budget, Pricing Discussion"
+49,Looking for a cost-effective analytics solution.,"Features, Technical Evaluation"
+50,Looking for a cost-effective analytics solution.,"Competition, Pricing Discussion"
+51,How does your data pipeline compare with industry standards?,"Competition, Pricing Discussion"
+52,How competitive are your pricing models?,"Competition, Pricing Discussion"
+53,I want to evaluate your AI engine's capabilities.,"Pricing Discussion, Budget"
+54,How competitive are your pricing models?,"Positive, Pricing Discussion, Features"
+55,Interested in understanding your budget-friendly options.,Technical Capabilities
+56,"Your AI engine looks impressive, but the pricing model is unclear.",Pricing Discussion
+57,I am concerned about data security and GDPR compliance.,"Competition, Pricing Discussion"
+58,I am concerned about data security and GDPR compliance.,"Competition, Pricing Discussion"
+59,How does your data pipeline compare with industry standards?,"Budget, Pricing Discussion"
+60,Looking for a cost-effective analytics solution.,"Pricing Discussion, Budget"
+61,How competitive are your pricing models?,"Competition, Pricing Discussion"
+62,Interested in understanding your budget-friendly options.,"Features, Technical Evaluation"
+63,I am concerned about data security and GDPR compliance.,"Features, Technical Evaluation"
+64,How competitive are your pricing models?,"Competition, Pricing Discussion"
+65,What makes your data pipeline unique?,"Budget, Pricing Discussion"
+66,CompetitorY is offering a similar solution at a lower cost.,"Budget, Pricing Discussion"
+67,Can you explain your renewal cost structure?,"Pricing Discussion, Budget"
+68,Do you offer any discounts for enterprise customers?,"Budget, Pricing Discussion"
+69,I am concerned about data security and GDPR compliance.,"Positive, Pricing Discussion, Features"
+70,How competitive are your pricing models?,Technical Capabilities
+71,We need advanced analytics for our sales team.,Pricing Discussion
+72,How competitive are your pricing models?,"Security, Compliance"
+73,How does your data pipeline compare with industry standards?,"Competition, Pricing Discussion"
+74,Do you offer any discounts for enterprise customers?,"Features, Positive"
+75,I want to evaluate your AI engine's capabilities.,Pricing Discussion
+76,"We love the analytics, but CompetitorX has a cheaper subscription.","Features, Technical Evaluation"
+77,Do you offer any discounts for enterprise customers?,"Budget, Pricing Discussion"
+78,Our compliance team is worried about data handling. Are you SOC2 certified?,"Positive, Pricing Discussion, Features"
+79,I am concerned about data security and GDPR compliance.,"Security, Compliance"
+80,"Your AI engine looks impressive, but the pricing model is unclear.","Competition, Pricing Discussion"
+81,"We love the analytics, but CompetitorX has a cheaper subscription.","Features, Positive"
+82,I want to evaluate your AI engine's capabilities.,"Features, Positive"
+83,What makes your data pipeline unique?,"Features, Pricing Discussion"
+84,What makes your data pipeline unique?,Technical Capabilities
+85,I am concerned about data security and GDPR compliance.,"Security, Compliance"
+86,Can you explain your renewal cost structure?,"Budget, Pricing Discussion"
+87,CompetitorZ seems to have more flexible pricing.,"Competition, Pricing Discussion"
+88,CompetitorY is offering a similar solution at a lower cost.,"Features, Positive"
+89,Can you explain your renewal cost structure?,"Competition, Pricing Discussion"
+90,"We love the analytics, but CompetitorX has a cheaper subscription.","Pricing Discussion, Budget"
+91,Looking for a cost-effective analytics solution.,Pricing Discussion
+92,"We love the analytics, but CompetitorX has a cheaper subscription.","Features, Positive"
+93,I want to evaluate your AI engine's capabilities.,"Budget, Pricing Discussion"
+94,Interested in understanding your budget-friendly options.,"Security, Compliance"
+95,"Your AI engine looks impressive, but the pricing model is unclear.","Competition, Pricing Discussion"
+96,We need advanced analytics for our sales team.,"Features, Technical Evaluation"
+97,"Your AI engine looks impressive, but the pricing model is unclear.","Pricing Discussion, Budget"
+98,How competitive are your pricing models?,Technical Capabilities
+99,Interested in understanding your budget-friendly options.,"Pricing Discussion, Budget"
+100,Looking for a cost-effective analytics solution.,"Features, Positive"
+101,I am concerned about data security and GDPR compliance.,"Features, Positive"
+102,What makes your data pipeline unique?,"Features, Technical Evaluation"
+103,We need advanced analytics for our sales team.,Pricing Discussion
+104,Interested in understanding your budget-friendly options.,"Budget, Pricing Discussion"
+105,I am concerned about data security and GDPR compliance.,"Features, Pricing Discussion"
+106,I want to evaluate your AI engine's capabilities.,Technical Capabilities
+107,Looking for a cost-effective analytics solution.,Technical Capabilities
+108,How does your data pipeline compare with industry standards?,Technical Capabilities
+109,I am concerned about data security and GDPR compliance.,Technical Capabilities
+110,Looking for a cost-effective analytics solution.,"Budget, Pricing Discussion"
+111,CompetitorZ seems to have more flexible pricing.,Technical Capabilities
+112,"Your AI engine looks impressive, but the pricing model is unclear.","Competition, Pricing Discussion"
+113,Interested in understanding your budget-friendly options.,"Features, Pricing Discussion"
+114,What makes your data pipeline unique?,"Security, Compliance"
+115,Interested in understanding your budget-friendly options.,"Competition, Pricing Discussion"
+116,I am concerned about data security and GDPR compliance.,"Security, Compliance"
+117,I want to evaluate your AI engine's capabilities.,"Features, Positive"
+118,Our compliance team is worried about data handling. Are you SOC2 certified?,"Competition, Pricing Discussion"
+119,We need advanced analytics for our sales team.,"Pricing Discussion, Budget"
+120,Can you explain your renewal cost structure?,"Competition, Pricing Discussion"
